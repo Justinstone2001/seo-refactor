@@ -1,11 +1,11 @@
-# seo-refactor
+# Horiseon SEO-refactor
 
-[LIVE SITE](https://www.google.com)
 
 ## Table of Contents 
 1. [Description](#description)
 2. [Usage](#usage)
 3. [Visuals](#visuals)
+4. [Resources](#resources)
 
 ## Author:
 
@@ -20,5 +20,10 @@ Here's a nice Description
 How to use
 
 ## Visuals
-![rubets](./images/ruBets.png)
+![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
+
+## Resources
+[LIVE SITE](https://justinstone2001.github.io/seo-refactor/)
+
+[Repository](https://github.com/Justinstone2001/seo-refactor)
 
