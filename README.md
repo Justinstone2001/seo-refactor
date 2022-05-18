@@ -3,9 +3,8 @@
 
 ## Table of Contents 
 1. [Description](#description)
-2. [Usage](#usage)
-3. [Visuals](#visuals)
-4. [Resources](#resources)
+2.  [Visuals](#visuals)
+3. [Resources](#resources)
 
 ## Author:
 
@@ -13,11 +12,8 @@ Justin Stone
 
 ## Description
 
-Here's a nice Description
+This code is the optimized version of Horiseon companies web page. With the company asking for help, I changed up all non semantic tags to semantic tags, such as changing divs to sections and articles and also adding a main section. I also went and added a meta tag and a descriptive Title along with descriptive alt tags for the images in order for search engine optimization, added comments and organized formating.
 
-## Usage
-
-How to use
 
 ## Visuals
 ![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
